@@ -6,8 +6,6 @@
 <link rel="stylesheet" href="https://milligram.github.io/styles/main.css">
 <link rel="stylesheet" href="assets/css/main.css">
 <link rel="icon" href="assets/images/signpost.png">
-<title>Code of Conduct - Home</title>
-
 <style>
 h1 {text-align:center;}
 </style>

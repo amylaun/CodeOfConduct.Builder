@@ -2,6 +2,7 @@
 <?php
 include("head.php");
 ?>
+<title>Code of Conduct - Home</title>
 </head>
 
 <body class="main">

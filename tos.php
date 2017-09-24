@@ -2,6 +2,7 @@
 <?php
 include("head.php");
 ?>
+<title>Code of Conudct - Terms of Service</title>
 </head>
 
 <body class="main">

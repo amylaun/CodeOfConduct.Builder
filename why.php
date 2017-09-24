@@ -2,6 +2,7 @@
 <?php
 include("head.php");
 ?>
+<title>Code of Conduct - Why are they so important?</title>
 </head>
 
 <body class="main">
